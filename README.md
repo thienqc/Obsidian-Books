@@ -1,5 +1,5 @@
 ## Cách sử dụng
-1. Tải file zip về máy tính
+1. Tải file [zip](https://github.com/thienqc/Obsidian-Books/archive/refs/heads/main.zip) về máy tính
 2. Giải nén để có thư mục bên trong
 3. Mở [Obsidian](https://obsidian.md/download) → Open another vault → Open folder as vault → Open → Chọn thư mục vừa giải nén → Select Folder
 4. Trust author and enable plugins
