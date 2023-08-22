@@ -1,0 +1,16 @@
+{
+  "targetFolderPath": "100 Reference notes/Book DB/1",
+  "fileName": "{{title}}",
+  "goodreadsBaseUrl": "",
+  "goodreadsShelves": "currently-reading",
+  "frontmatterDictionary": {
+    "cover": "cover",
+    "dateRead": "dateRead",
+    "datePublished": "datePublished",
+    "pages": "pages",
+    "shelves": "shelves"
+  },
+  "bodyString": "![|300]({{cover}})\n(author::[[{{author}}]])\n[pagesRead:: 0]\n\n`$= const value = Math.round((dv.current().pagesRead / dv.current().pages) * 100); \"<progress value='\" + value + \"' max='100'></progress>\" + \" \" + value + \"%\"`\n\n---\n## Highlight\n\n",
+  "frequency": "0",
+  "overwrite": false
+}

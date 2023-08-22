@@ -1,0 +1,11 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "100 Reference notes/_kindle",
+  "lastSyncMode": "my-clippings",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": false,
+  "lastSyncDate": "2023-08-22T15:00:29.611Z",
+  "fileNameTemplate": "{{title}} - {{authorsLastNames}}",
+  "fileTemplate": "## Highlights\n{{highlights}}\n"
+}

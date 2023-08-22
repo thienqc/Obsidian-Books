@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Cards"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 20,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}
