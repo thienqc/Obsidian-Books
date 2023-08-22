@@ -12,7 +12,7 @@ Bạn có thể tuỳ chỉnh theme bằng plugin [Minimal Theme Settings](obsid
 Nếu bạn muốn sử dụng theme khác thì cũng không sao, vì mình đã tạo sẵn file `Cards.css` để bạn sử dụng tương tự khi dùng Minimal theme.
 ### Booksidian
 Bạn xem hướng dẫn [ở đây](obsidian://show-plugin?id=booksidian-plugin), và copy link **Currently Reading** vào `RSS Base URL`
-### Kindle Hightlights
+### Kindle Highlights
 Bạn có thể chọn sync từ Amazon hoặc từ file `My Clippings.txt`. Xem hướng dẫn [ở đây](obsidian://show-plugin?id=obsidian-kindle-plugin)
 Mình sử dụng cách sync từ file `My Clippings.txt`, sau đó mình sẽ xoá nội dung trong file đi. Những highlight trong Obsidian sau khi sync mình sẽ copy chúng vào từng quyển sách, và ghi chú sâu về nó.
 ### Reading challenge
