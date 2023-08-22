@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"\n\n# Currently Reading\n\n```dataview\nTABLE\n\t\"<progress value='\" + round(100*pagesRead/number(pages)) + \"' max='100'></progress> \" + round(100*pagesRead/number(pages)) + \"%\" AS Progress\nFROM \"100 Reference notes/Book DB\"\nWHERE contains(shelves, \"currently-reading\")\nSORT round(100*pagesRead/number(pages)) DESC\n```\n","id":"10cea0a49f9a9092","x":-980,"y":-560,"width":660,"height":920},
+		{"type":"text","text":"# Highlight\n```dataview\nLIST\nFROM \"100 Reference notes/_kindle\"\n```","id":"abff7aa2f1734e15","x":-980,"y":440,"width":660,"height":500},
+		{"id":"aeafc926b3285f1c","x":-260,"y":-560,"width":1420,"height":1500,"type":"text","text":"My Library\n\n![[Reading challenge 2023]]"}
+	],
+	"edges":[]
+}
